@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 #include "factor.h"
-
+// hi
 int main(int argc, char* argv[]) {
   CLIENT* clnt;
   char* server;
